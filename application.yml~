@@ -7,7 +7,7 @@ spring:
   application:
     name: tulingvip05-ms-test
 server:
-  port: 8099
+  port: 8199
 ---
 spring:
   profiles: prod
