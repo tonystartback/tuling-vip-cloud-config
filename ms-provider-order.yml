@@ -2,7 +2,7 @@ spring:
     profiles:
       active: prod
 busi:
-  ops: Yess
+  ops: Ness
 ---
 server:
   port: 8002
