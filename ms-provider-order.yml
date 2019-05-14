@@ -5,7 +5,7 @@ busi:
   ops: Yess
 ---
 server:
-  port: {cipher}8b82fd46b63cc1c8e069497c56c64cf77b10dbc4a0abb1b7515eaeb61b352019
+  port: '{cipher}8b82fd46b63cc1c8e069497c56c64cf77b10dbc4a0abb1b7515eaeb61b352019'
 spring:
   datasource:
     druid:
